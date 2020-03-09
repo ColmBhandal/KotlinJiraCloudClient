@@ -1,0 +1,10 @@
+
+# RuleConfiguration
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**value** | **kotlin.String** | Configuration of the rule, as it is stored by the Connect app on the rule configuration page. | 
+
+
+
